@@ -6,13 +6,7 @@
 
     <groupId>com.xellitix.commons</groupId>
     <artifactId>parent-pom</artifactId>
-    <version>0.1.0</version>
-
-    <modules>
-        <module>docker</module>
-        <module>net</module>
-    </modules>
-
+    <version>0.2.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Xellitix Commons - Parent POM</name>
     <description>${project.name}</description>
@@ -41,9 +35,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/Xellitix/commons.git</connection>
-        <developerConnection>scm:git:ssh://github.com:Xellitix/commons.git</developerConnection>
-        <url>https://github.com/graysonkuhns/commons</url>
+        <connection>scm:git:git://github.com/Xellitix/commons-parent-pom.git</connection>
+        <developerConnection>scm:git:ssh://github.com:Xellitix/commons-parent-pom.git</developerConnection>
+        <url>https://github.com/Xellitix/commons-parent-pom</url>
     </scm>
 
     <distributionManagement>

@@ -1,15 +1,10 @@
-# Xellitix Commons
+# Xellitix Commons - Parent POM
 
-Java libraries.
+Commons Parent POM.
 
 ## Status
 
 __Pre-Alpha__
-
-## Modules
-
-- Docker
-- Networking
 
 ## Style
 
