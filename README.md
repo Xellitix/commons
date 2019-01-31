@@ -2,9 +2,12 @@
 
 Commons Parent POM.
 
-## Status
+## Performing Releases
 
-__Pre-Alpha__
+``` bash
+# To perform a release on a project that makes use of this parent POM
+mvn -DperformRelease=true clean deploy
+```
 
 ## Style
 
