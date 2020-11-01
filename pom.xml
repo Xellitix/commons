@@ -24,6 +24,16 @@
         </license>
     </licenses>
 
+    <developers>
+        <developer>
+            <id>xellitix</id>
+            <name>XELLITIX OSS</name>
+            <email>oss@xellitix.com</email>
+            <organization>XELLITIX, LLC</organization>
+            <organizationUrl>http://xellitix.com/</organizationUrl>
+        </developer>
+    </developers>
+
     <scm>
         <connection>scm:git:git://github.com/Xellitix/commons-parent-pom.git</connection>
         <developerConnection>scm:git:ssh://github.com:Xellitix/commons-parent-pom.git</developerConnection>
